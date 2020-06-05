@@ -1,0 +1,15 @@
+window, body{
+    background-color: black;
+    color: blue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 200px;
+}
+
+a{
+    font-size: 150px;
+    color: yellow;
+}

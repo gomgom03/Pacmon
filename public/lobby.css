@@ -1,0 +1,33 @@
+window, body{
+    background-color: black;
+    color: blue;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+h1{
+    font-size: 100px;
+}
+
+div{
+    width: 100%;
+    align-content: center;
+}
+
+
+
+img{
+    width: 20%;
+    display: inline-block;
+}
+
+#pacman{
+    width: 18%;
+}
+
+.player{
+    font-size: 24px;
+    color: red;
+    display: inline-block;
+    width: 20%;
+}

@@ -1,0 +1,10 @@
+body{
+    background-color: lightblue;
+    margin:0;
+    overflow: hidden;
+}
+
+canvas{
+    width: 100%;
+    min-height:100%;
+}
